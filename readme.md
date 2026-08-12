@@ -1,3 +1,5 @@
+
+
 # MNE tutorial/training
 
 2018-10-20 Atsuya Kobayashi
@@ -31,3 +33,7 @@ MNEを用いたEEG(脳波)データの解析のトレーニング資料。
 - motor imagery by EEG, CSP features
 
 - ERP
+
+### Usage
+
+To follow the tutorials, install MNE-Python in your Python environment and open the provided Jupyter notebooks (`.ipynb` files) with Jupyter Notebook.
